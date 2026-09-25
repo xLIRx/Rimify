@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <Rimify_Title>Rimify</Rimify_Title>
+  <Rimify_Search>Поиск:</Rimify_Search>
+  <Rimify_TracksFolder>Папка треков</Rimify_TracksFolder>
+  <Rimify_Refresh>Обновить</Rimify_Refresh>
+  <Rimify_Refreshing>Обновление...</Rimify_Refreshing>
+  <Rimify_Close>Закрыть</Rimify_Close>
+
+  <!-- Категории -->
+  <Rimify_Cat_All>Вся музыка</Rimify_Cat_All>
+  <Rimify_Cat_Custom>Мои треки</Rimify_Cat_Custom>
+  <Rimify_Cat_Core>Оригинал и DLC</Rimify_Cat_Core>
+  <Rimify_Cat_Mods>Моды</Rimify_Cat_Mods>
+  <Rimify_Cat_Peaceful>Мирные</Rimify_Cat_Peaceful>
+  <Rimify_Cat_Combat>Боевые</Rimify_Cat_Combat>
+  <Rimify_Cat_Disabled>Отключенные</Rimify_Cat_Disabled>
+  <Rimify_PlaylistsHeader>ПЛЕЙЛИСТЫ</Rimify_PlaylistsHeader>
+
+  <!-- Колонки таблицы -->
+  <Rimify_Col_Num>#</Rimify_Col_Num>
+  <Rimify_Col_Title>НАЗВАНИЕ</Rimify_Col_Title>
+  <Rimify_Col_Source>ИСТОЧНИК</Rimify_Col_Source>
+  <Rimify_Col_Tags>ТЕГИ</Rimify_Col_Tags>
+  <Rimify_Col_Time>ВРЕМЯ</Rimify_Col_Time>
+
+  <!-- Подсказки и действия -->
+  <Rimify_Source_Custom>YouTube / Свои</Rimify_Source_Custom>
+  <Rimify_Tip_RowPlay>ЛКМ: включить трек&#10;ПКМ: меню плейлистов</Rimify_Tip_RowPlay>
+  <Rimify_Tip_ModeCombat>Режим: Бой (клик: переключить на Мир)</Rimify_Tip_ModeCombat>
+  <Rimify_Tip_ModePeaceful>Режим: Мир (клик: переключить на Бой)</Rimify_Tip_ModePeaceful>
+  <Rimify_Tip_TimeOfDay>Время суток: {0} (клик: переключить)</Rimify_Tip_TimeOfDay>
+  <Rimify_Tip_RotAudible>В ротации игры (клик: отключить)</Rimify_Tip_RotAudible>
+  <Rimify_Tip_RotMuted>Исключено из ротации (клик: включить)</Rimify_Tip_RotMuted>
+  <Rimify_Tip_AddToPlaylist>Добавить в плейлист</Rimify_Tip_AddToPlaylist>
+  <Rimify_Tip_RemoveFromThisPlaylist>Удалить из этого плейлиста</Rimify_Tip_RemoveFromThisPlaylist>
+  <Rimify_Tip_DeleteTrack>Удалить трек с диска</Rimify_Tip_DeleteTrack>
+
+  <!-- Плейлисты -->
+  <Rimify_LockPlaylist_Off>Играть только этот плейлист</Rimify_LockPlaylist_Off>
+  <Rimify_LockPlaylist_On>Играет только этот плейлист (Активен)</Rimify_LockPlaylist_On>
+  <Rimify_Menu_NoPlaylists>Нет плейлистов (создайте через «+» слева)</Rimify_Menu_NoPlaylists>
+  <Rimify_Menu_RemoveFrom>✓ Удалить из: {0}</Rimify_Menu_RemoveFrom>
+  <Rimify_Menu_AddTo>+ Добавить в: {0}</Rimify_Menu_AddTo>
+  <Rimify_Menu_CreateNew>+ Создать новый плейлист...</Rimify_Menu_CreateNew>
+  <Rimify_Menu_DeleteTrack>✕ Удалить трек с диска</Rimify_Menu_DeleteTrack>
+  <Rimify_Dlg_NewPlaylistTitle>Новый плейлист</Rimify_Dlg_NewPlaylistTitle>
+  <Rimify_Dlg_Create>Создать</Rimify_Dlg_Create>
+  <Rimify_Dlg_Cancel>Отмена</Rimify_Dlg_Cancel>
+  <Rimify_Dlg_DeleteConfirm>Удалить плейлист «{0}»?</Rimify_Dlg_DeleteConfirm>
+  <Rimify_Dlg_DeleteTrackConfirm>Навсегда удалить трек «{0}» с диска?</Rimify_Dlg_DeleteTrackConfirm>
+
+  <!-- HUD-виджет -->
+  <Rimify_Widget_Tip>ЛКМ: открыть медиатеку&#10;Зажмите ЛКМ для перемещения виджета</Rimify_Widget_Tip>
+  <Rimify_Widget_PrevTip>С начала / Предыдущий</Rimify_Widget_PrevTip>
+  <Rimify_Widget_PlayPauseTip>Пауза / Играть</Rimify_Widget_PlayPauseTip>
+  <Rimify_Widget_NextTip>Следующий трек</Rimify_Widget_NextTip>
+  <Rimify_ToggleIcon_Tip>Плеер Rimify&#10;Играет: {0}&#10;ЛКМ: Скрыть/показать виджет плеера&#10;ПКМ: Открыть медиатеку</Rimify_ToggleIcon_Tip>
+
+  <!-- Статусы -->
+  <Rimify_Status_Paused>Пауза</Rimify_Status_Paused>
+  <Rimify_Status_Waiting>Ожидание музыки...</Rimify_Status_Waiting>
+  <Rimify_Status_Silence>Тишина...</Rimify_Status_Silence>
+  <Rimify_Status_Untitled>Без названия</Rimify_Status_Untitled>
+  <Rimify_Status_SilenceTimer>Тишина ({0}с)</Rimify_Status_SilenceTimer>
+  <Rimify_VolumeTip>Громкость музыки: {0}%</Rimify_VolumeTip>
+
+  <!-- Время суток -->
+  <Rimify_Time_Any>Любое</Rimify_Time_Any>
+  <Rimify_Time_Day>День</Rimify_Time_Day>
+  <Rimify_Time_Night>Ночь</Rimify_Time_Night>
+
+  <!-- Загрузчик YouTube -->
+  <Rimify_DownloadSection>YouTube</Rimify_DownloadSection>
+  <Rimify_DownloadBtn>Скачать</Rimify_DownloadBtn>
+  <Rimify_DownloadingToolbar>{0} ({1}%)</Rimify_DownloadingToolbar>
+  <Rimify_YT_CombatPreset>Боевой трек</Rimify_YT_CombatPreset>
+  <Rimify_YT_Status_PreparingTool>Загрузка ядра yt-dlp...</Rimify_YT_Status_PreparingTool>
+  <Rimify_YT_Status_DownloadingFfmpeg>Загрузка FFmpeg...</Rimify_YT_Status_DownloadingFfmpeg>
+  <Rimify_YT_Status_Downloading>Скачивание аудиопотока...</Rimify_YT_Status_Downloading>
+  <Rimify_YT_Status_Converting>Конвертация в MP3...</Rimify_YT_Status_Converting>
+  <Rimify_YT_Status_Success>Загрузка успешно завершена!</Rimify_YT_Status_Success>
+  <Rimify_YT_Status_Error>Ошибка при скачивании</Rimify_YT_Status_Error>
+
+  <!-- Настройки -->
+  <Rimify_Setting_ContinuousMode>Непрерывное воспроизведение (Non-stop)</Rimify_Setting_ContinuousMode>
+  <Rimify_Setting_ContinuousMode_Desc>Включено: треки играют подряд без пауз.&#10;Выключено: сохраняет атмосферную паузу 1–3 мин между композициями как в оригинальной игре (в бою паузы пропускаются автоматически).</Rimify_Setting_ContinuousMode_Desc>
+  <Rimify_Setting_ContinuousMode_Off>Паузы между треками (1–3 мин): ВКЛ (клик: играть без пауз)</Rimify_Setting_ContinuousMode_Off>
+  <Rimify_Settings_Hint>Нажмите кнопку ниже, чтобы открыть медиатеку и настроить плейлисты и ротацию:</Rimify_Settings_Hint>
+  <Rimify_Btn_OpenManager>Открыть плеер Rimify</Rimify_Btn_OpenManager>
+  <Rimify_MenuMusicFolder_Btn>Папка музыки меню</Rimify_MenuMusicFolder_Btn>
+<Rimify_MenuMusicFolder_Tip>Открыть папку заставки (Sounds/Music). Поместите сюда свой файл с именем MenuSong (.ogg, .mp3 или .wav).</Rimify_MenuMusicFolder_Tip>
+
+  <!-- Расширенные настройки -->
+  <Rimify_Setting_PauseHeader>Интервалы пауз между треками (Атмосферная тишина):</Rimify_Setting_PauseHeader>
+  <Rimify_Setting_MinPause>Мин. пауза: {0}с</Rimify_Setting_MinPause>
+  <Rimify_Setting_MaxPause>Макс. пауза: {0}с</Rimify_Setting_MaxPause>
+  <Rimify_Setting_ResetWidget>Сбросить положение HUD-виджета</Rimify_Setting_ResetWidget>
+  <Rimify_Setting_ResetWidget_Tip>Возвращает плавающий плеер в стандартное положение в правом верхнем углу экрана.</Rimify_Setting_ResetWidget_Tip>
+  <Rimify_Setting_Stats>Медиатека: {0} треков в системе, {1} плейлистов.</Rimify_Setting_Stats>
+
+  <!-- Обновление утилит и мини-виджет -->
+  <Rimify_YT_BtnUpdate>Обновить ядро yt-dlp (-U)</Rimify_YT_BtnUpdate>
+  <Rimify_YT_Updating>Обновление ядра yt-dlp...</Rimify_YT_Updating>
+  <Rimify_Widget_NoteTip>ЛКМ: Открыть плеер Rimify&#10;ПКМ: Свернуть в мини-иконку</Rimify_Widget_NoteTip>
+  <Rimify_Widget_MiniTip>ЛКМ: Открыть плеер Rimify&#10;ПКМ: Развернуть полный виджет</Rimify_Widget_MiniTip>
+
+  <Rimify_Tip_ShuffleOn>Случайный порядок: ВКЛ (клик: играть по порядку)</Rimify_Tip_ShuffleOn>
+  <Rimify_Tip_ShuffleOff>Случайный порядок: ВЫКЛ (клик: перемешать треки)</Rimify_Tip_ShuffleOff>
+  <Rimify_Tip_RepeatOn>Повтор одного трека: ВКЛ (клик: выключить)</Rimify_Tip_RepeatOn>
+  <Rimify_Tip_RepeatOff>Повтор одного трека: ВЫКЛ (клик: зациклить текущий)</Rimify_Tip_RepeatOff>
+
+  <!-- Музыка Главного Меню -->
+  <Rimify_MenuMusicFolder_Btn>Папка музыки меню</Rimify_MenuMusicFolder_Btn>
+  <Rimify_MenuMusicFolder_Tip>Открыть папку для музыки главного меню. Поместите туда любой трек (.mp3, .ogg или .wav).</Rimify_MenuMusicFolder_Tip>
+  <Rimify_Setting_CustomMenuMusic>Заменять музыку главного меню</Rimify_Setting_CustomMenuMusic>
+  <Rimify_Setting_CustomMenuMusic_Desc>Воспроизводить собственный трек из папки MenuMusic вместо стандартной заставки RimWorld.</Rimify_Setting_CustomMenuMusic_Desc>
+</LanguageData>

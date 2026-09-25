@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+  <!-- Toggle Play / Pause / Воспроизведение или Пауза -->
+  <KeyBindingDef>
+    <defName>Rimify_PlayPause</defName>
+    <label>Play / Pause</label>
+    <category>Rimify_Controls</category>
+    <defaultKeyCodeA>BackQuote</defaultKeyCodeA>
+  </KeyBindingDef>
+
+  <!-- Next Track / Следующий трек -->
+  <KeyBindingDef>
+    <defName>Rimify_NextTrack</defName>
+    <label>Next track</label>
+    <category>Rimify_Controls</category>
+    <defaultKeyCodeA>RightBracket</defaultKeyCodeA>
+  </KeyBindingDef>
+
+  <!-- Previous or Restart Track / Предыдущий трек или с начала -->
+  <KeyBindingDef>
+    <defName>Rimify_PrevTrack</defName>
+    <label>Previous track</label>
+    <category>Rimify_Controls</category>
+    <defaultKeyCodeA>LeftBracket</defaultKeyCodeA>
+  </KeyBindingDef>
+</Defs>

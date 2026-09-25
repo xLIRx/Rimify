@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+  <!-- Category in Options -> Keyboard configuration / Категория в меню Настройки -> Управление -->
+  <KeyBindingCategoryDef>
+    <defName>Rimify_Controls</defName>
+    <label>Rimify</label>
+    <description>Music player playback controls / Горячие клавиши управления музыкальным плеером</description>
+  </KeyBindingCategoryDef>
+</Defs>

@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <Rimify_Title>Rimify</Rimify_Title>
+  <Rimify_Search>Search:</Rimify_Search>
+  <Rimify_TracksFolder>Tracks Folder</Rimify_TracksFolder>
+  <Rimify_Refresh>Refresh</Rimify_Refresh>
+  <Rimify_Refreshing>Refreshing...</Rimify_Refreshing>
+  <Rimify_Close>Close</Rimify_Close>
+
+  <!-- Categories -->
+  <Rimify_Cat_All>All Music</Rimify_Cat_All>
+  <Rimify_Cat_Custom>My Tracks</Rimify_Cat_Custom>
+  <Rimify_Cat_Core>Core &amp; DLC</Rimify_Cat_Core>
+  <Rimify_Cat_Mods>Mods</Rimify_Cat_Mods>
+  <Rimify_Cat_Peaceful>Peaceful</Rimify_Cat_Peaceful>
+  <Rimify_Cat_Combat>Combat</Rimify_Cat_Combat>
+  <Rimify_Cat_Disabled>Disabled</Rimify_Cat_Disabled>
+  <Rimify_PlaylistsHeader>PLAYLISTS</Rimify_PlaylistsHeader>
+
+  <!-- Table Columns -->
+  <Rimify_Col_Num>#</Rimify_Col_Num>
+  <Rimify_Col_Title>TITLE</Rimify_Col_Title>
+  <Rimify_Col_Source>SOURCE</Rimify_Col_Source>
+  <Rimify_Col_Tags>TAGS</Rimify_Col_Tags>
+  <Rimify_Col_Time>TIME</Rimify_Col_Time>
+
+  <!-- Tooltips & Actions -->
+  <Rimify_Source_Custom>YouTube / Custom</Rimify_Source_Custom>
+  <Rimify_Tip_RowPlay>LMB: Play track&#10;RMB: Playlist menu</Rimify_Tip_RowPlay>
+  <Rimify_Tip_ModeCombat>Mode: Combat (click: switch to Peaceful)</Rimify_Tip_ModeCombat>
+  <Rimify_Tip_ModePeaceful>Mode: Peaceful (click: switch to Combat)</Rimify_Tip_ModePeaceful>
+  <Rimify_Tip_TimeOfDay>Time of day: {0} (click: toggle)</Rimify_Tip_TimeOfDay>
+  <Rimify_Tip_RotAudible>In game rotation (click: disable)</Rimify_Tip_RotAudible>
+  <Rimify_Tip_RotMuted>Excluded from rotation (click: enable)</Rimify_Tip_RotMuted>
+  <Rimify_Tip_AddToPlaylist>Add to playlist</Rimify_Tip_AddToPlaylist>
+  <Rimify_Tip_RemoveFromThisPlaylist>Remove from this playlist</Rimify_Tip_RemoveFromThisPlaylist>
+  <Rimify_Tip_DeleteTrack>Delete track from disk</Rimify_Tip_DeleteTrack>
+
+  <!-- Playlists -->
+  <Rimify_LockPlaylist_Off>Play only this playlist</Rimify_LockPlaylist_Off>
+  <Rimify_LockPlaylist_On>Playing only this playlist (Active)</Rimify_LockPlaylist_On>
+  <Rimify_Menu_NoPlaylists>No playlists (create via '+' on the left)</Rimify_Menu_NoPlaylists>
+  <Rimify_Menu_RemoveFrom>✓ Remove from: {0}</Rimify_Menu_RemoveFrom>
+  <Rimify_Menu_AddTo>+ Add to: {0}</Rimify_Menu_AddTo>
+  <Rimify_Menu_CreateNew>+ Create new playlist...</Rimify_Menu_CreateNew>
+  <Rimify_Menu_DeleteTrack>✕ Delete track from disk</Rimify_Menu_DeleteTrack>
+  <Rimify_Dlg_NewPlaylistTitle>New Playlist</Rimify_Dlg_NewPlaylistTitle>
+  <Rimify_Dlg_Create>Create</Rimify_Dlg_Create>
+  <Rimify_Dlg_Cancel>Cancel</Rimify_Dlg_Cancel>
+  <Rimify_Dlg_DeleteConfirm>Delete playlist "{0}"?</Rimify_Dlg_DeleteConfirm>
+  <Rimify_Dlg_DeleteTrackConfirm>Permanently delete track "{0}"?</Rimify_Dlg_DeleteTrackConfirm>
+
+  <!-- HUD Widget -->
+ <Rimify_Widget_Tip>LMB: open music library&#10;Hold LMB to drag and move widget</Rimify_Widget_Tip>
+  <Rimify_Widget_PrevTip>Restart / Previous</Rimify_Widget_PrevTip>
+  <Rimify_Widget_PlayPauseTip>Pause / Play</Rimify_Widget_PlayPauseTip>
+  <Rimify_Widget_NextTip>Next track</Rimify_Widget_NextTip>
+  <Rimify_ToggleIcon_Tip>Rimify Music Player&#10;Playing: {0}&#10;LMB: Show/hide HUD player&#10;RMB: Open music library</Rimify_ToggleIcon_Tip>
+
+  <!-- Statuses -->
+  <Rimify_Status_Paused>Paused</Rimify_Status_Paused>
+  <Rimify_Status_Waiting>Waiting for music...</Rimify_Status_Waiting>
+  <Rimify_Status_Silence>Silence...</Rimify_Status_Silence>
+  <Rimify_Status_Untitled>Untitled</Rimify_Status_Untitled>
+  <Rimify_Status_SilenceTimer>Silence ({0}s)</Rimify_Status_SilenceTimer>
+  <Rimify_VolumeTip>Music Volume: {0}%</Rimify_VolumeTip>
+
+  <!-- Time of Day -->
+  <Rimify_Time_Any>Any</Rimify_Time_Any>
+  <Rimify_Time_Day>Day</Rimify_Time_Day>
+  <Rimify_Time_Night>Night</Rimify_Time_Night>
+
+  <!-- YouTube Downloader -->
+  <Rimify_DownloadSection>YouTube</Rimify_DownloadSection>
+  <Rimify_DownloadBtn>Download</Rimify_DownloadBtn>
+  <Rimify_DownloadingToolbar>{0} ({1}%)</Rimify_DownloadingToolbar>
+  <Rimify_YT_CombatPreset>Combat track</Rimify_YT_CombatPreset>
+  <Rimify_YT_Status_PreparingTool>Downloading yt-dlp core...</Rimify_YT_Status_PreparingTool>
+  <Rimify_YT_Status_DownloadingFfmpeg>Downloading FFmpeg...</Rimify_YT_Status_DownloadingFfmpeg>
+  <Rimify_YT_Status_Downloading>Downloading audio stream...</Rimify_YT_Status_Downloading>
+  <Rimify_YT_Status_Converting>Converting to MP3...</Rimify_YT_Status_Converting>
+  <Rimify_YT_Status_Success>Download completed successfully!</Rimify_YT_Status_Success>
+  <Rimify_YT_Status_Error>Error occurred during download</Rimify_YT_Status_Error>
+
+  <!-- Settings -->
+  <Rimify_Setting_ContinuousMode>Continuous Playback (Non-stop)</Rimify_Setting_ContinuousMode>
+  <Rimify_Setting_ContinuousMode_Desc>Enabled: tracks play back-to-back without pauses.&#10;Disabled: keeps an atmospheric 1–3 min pause between songs like vanilla RimWorld (pauses are skipped during combat).</Rimify_Setting_ContinuousMode_Desc>
+  <Rimify_Setting_ContinuousMode_Off>Pauses between tracks (1–3 min): ON (click: toggle non-stop)</Rimify_Setting_ContinuousMode_Off>
+  <Rimify_Settings_Hint>Click the button below to open your music library, configure track rotation and playlists:</Rimify_Settings_Hint>
+  <Rimify_Btn_OpenManager>Open Rimify Player</Rimify_Btn_OpenManager>
+  <Rimify_MenuMusicFolder_Btn>Menu music folder</Rimify_MenuMusicFolder_Btn>
+<Rimify_MenuMusicFolder_Tip>Open menu music folder (Sounds/Music). Place your audio file named MenuSong (.ogg, .mp3, or .wav) here.</Rimify_MenuMusicFolder_Tip>
+
+  <!-- Advanced Settings -->
+  <Rimify_Setting_PauseHeader>Vanilla Pause Intervals (Atmospheric Silence):</Rimify_Setting_PauseHeader>
+  <Rimify_Setting_MinPause>Min pause: {0}s</Rimify_Setting_MinPause>
+  <Rimify_Setting_MaxPause>Max pause: {0}s</Rimify_Setting_MaxPause>
+  <Rimify_Setting_ResetWidget>Reset HUD Widget Position</Rimify_Setting_ResetWidget>
+  <Rimify_Setting_ResetWidget_Tip>Restores the floating player back to the top-right corner of the screen.</Rimify_Setting_ResetWidget_Tip>
+  <Rimify_Setting_Stats>Media library: {0} tracks registered, {1} custom playlists.</Rimify_Setting_Stats>
+
+  <!-- Tool updater & Mini widget -->
+  <Rimify_YT_BtnUpdate>Update yt-dlp core (-U)</Rimify_YT_BtnUpdate>
+  <Rimify_YT_Updating>Updating yt-dlp core...</Rimify_YT_Updating>
+  <Rimify_Widget_NoteTip>LMB: Open Rimify Player&#10;RMB: Collapse to mini-icon</Rimify_Widget_NoteTip>
+  <Rimify_Widget_MiniTip>LMB: Open Rimify Player&#10;RMB: Expand full widget</Rimify_Widget_MiniTip>
+
+  <Rimify_Tip_ShuffleOn>Shuffle mode: ON (click: play sequentially)</Rimify_Tip_ShuffleOn>
+  <Rimify_Tip_ShuffleOff>Shuffle mode: OFF (click: randomize playback)</Rimify_Tip_ShuffleOff>
+  <Rimify_Tip_RepeatOn>Repeat track: ON (click: repeat off)</Rimify_Tip_RepeatOn>
+  <Rimify_Tip_RepeatOff>Repeat track: OFF (click: repeat current track)</Rimify_Tip_RepeatOff>
+
+  <!-- Main Menu Music -->
+  <Rimify_MenuMusicFolder_Btn>Menu music folder</Rimify_MenuMusicFolder_Btn>
+  <Rimify_MenuMusicFolder_Tip>Open folder for custom main menu music. Place any track (.mp3, .ogg, or .wav) here.</Rimify_MenuMusicFolder_Tip>
+  <Rimify_Setting_CustomMenuMusic>Replace main menu music</Rimify_Setting_CustomMenuMusic>
+  <Rimify_Setting_CustomMenuMusic_Desc>Play your custom track from the MenuMusic folder instead of the default RimWorld theme.</Rimify_Setting_CustomMenuMusic_Desc>
+</LanguageData>

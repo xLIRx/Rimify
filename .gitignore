@@ -1,0 +1,15 @@
+# Сборка .NET
+bin/
+obj/
+Source/bin/
+Source/obj/
+
+# Среда разработки
+.vs/
+.vscode/
+*.user
+*.suo
+
+# Временные файлы
+*.tmp
+*.bak

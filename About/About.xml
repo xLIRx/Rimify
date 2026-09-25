@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>Rimify - Music Player &amp; YouTube Sync</name>
+  <author>LiFraxi</author>
+  <packageId>LiFraxi.Rimify</packageId>
+  <modVersion>1.1.5</modVersion>
+  <supportedVersions>
+    <li>1.5</li>
+    <li>1.6</li>
+  </supportedVersions>
+  <description>
+RIMIFY — In-game Music Player &amp; YouTube Sync
+
+Tired of hearing the exact same ambient tunes after hundreds of hours on a single colony? Rimify transforms RimWorld into a dynamic, modern media hub: manage rotation, create themed playlists, bind keyboard shortcuts, and download audio directly from YouTube and YouTube Music without ever leaving the game.
+
+⚡ KEY FEATURES
+• Minimalist HUD Widget: Fully draggable, borderless floating player above the colony map. Features smooth Marquee text for long track titles, elapsed/total timers, and a clickable progress bar for instant scrubbing.
+• PlaySettings Dock Icon: Seamlessly integrated music toggle button in the bottom-right game speed controls bar. Left-click toggles the HUD player on/off; Right-click opens the music library instantly.
+• Advanced Playback Modes: 
+  - Shuffle Mode: Switch between true randomized rotation and sequential playback.
+  - Repeat Mode: Loop a single epic track for lengthy raids or repeat entire playlists.
+  - Continuous Mode (∞): Toggle non-stop playback or configure authentic vanilla atmospheric silence pauses (5–360s).
+• Integrated Volume Slider: Real-time music volume slider right inside the player window.
+• Full Keyboard Shortcuts: Native integration into the game's Controls menu (Play/Pause, Next Track, Previous Track).
+• Background YouTube Downloader: Download tracks, albums, or entire playlists via yt-dlp &amp; ffmpeg with real-time progress indicators and zero frame drops.
+• One-Click Tool Updater: Integrated [UPD] button directly updates the yt-dlp core from GitHub to bypass YouTube format shifts.
+• Smart Tagging &amp; Playlists: Assign tracks to Combat or Peaceful conditions, Day/Night hours, or silence annoying tracks from rotation. Group songs into custom playlists with the "Play only this playlist" lock.
+• Next-Gen Performance: Disk streaming (streamAudio) reduces RAM usage from 3.5GB to under 2MB for large libraries. Full UI virtualization ensures locked 144–165+ FPS even with 500+ tracks.
+
+🔧 COMPATIBILITY
+• Saves: 100% safe to add or remove mid-game.
+• Audio Packs: Full plug-and-play support for vanilla DLCs (Royalty, Ideology, Biotech, Anomaly), P-Music, and all custom music mods.
+• Multiplayer: Client-side operation with zero desync risk.
+
+─────────────────────────────────────────
+
+RIMIFY — Твой личный саундтрек на Пограничье
+
+Сколько сотен часов наиграно на одной колонии под одни и те же фоновые треки? Rimify превращает RimWorld в гибкую музыкальную станцию: управляйте ротацией музыки, создавайте плейлисты, настраивайте горячие клавиши и скачивайте любимые треки прямо из YouTube и YouTube Music прямо во время игры.
+
+⚡ ОСНОВНЫЕ ВОЗМОЖНОСТИ
+• Минималистичный HUD-плеер: свободное перемещение мышью по всей карте, плавная бегущая строка (Marquee) для длинных названий, таймер времени и интерактивная полоса прогресса с перемоткой в один клик.
+• Интеграция в PlaySettings: родная кнопка-тумблер с нотой в правом нижнем углу среди ванильных переключателей игры. ЛКМ скрывает или показывает плеер, ПКМ мгновенно открывает медиатеку.
+• Гибкие режимы воспроизведения:
+  - Shuffle (Случайный порядок): переключение между случайным воспроизведением и строгой очередью.
+  - Repeat (Повтор): зацикливание одного трека под затяжные штурмы или повтор всего списка.
+  - Continuous (Непрерывный режим ∞): игра нон-стоп либо атмосферные паузы тишины с тонкой настройкой от 5 до 360 секунд.
+• Встроенный регулятор громкости: ползунок громкости музыки прямо в футере медиатеки.
+• Горячие клавиши: управление плеером с клавиатуры через системные настройки управления RimWorld (Пауза/Плей, Следующий, Предыдущий трек).
+• Фоновый загрузчик с YouTube: скачивание треков и плейлистов через yt-dlp и ffmpeg с наглядным прогрессом и без малейших фризов.
+• Обновление загрузчика в один клик: кнопка [UPD] в интерфейсе скачивает свежий бинарник yt-dlp с GitHub в обход блокировок YouTube.
+• Умные теги ротации и плейлисты: разделение треков на бой и мир, привязка ко времени суток (день/ночь) и исключение композиций из авторотации. Пользовательские плейлисты с фиксацией «Играть только этот плейлист».
+• Экстремальная оптимизация: стриминг с диска (streamAudio) удерживает потребление RAM на уровне 2 МБ вместо 3.5 ГБ даже при сотне скачанных песен. Виртуализация списка держит стабильные 144–165+ FPS.
+
+🔧 СОВМЕСТИМОСТЬ
+• Сохранения: безопасно добавлять и удалять в любой момент партии.
+• Моды на музыку: полная поддержка DLC (Royalty, Ideology, Biotech, Anomaly), P-Music и любых фанатских аудиотреков.
+• Мультиплеер: полностью клиентская логика, исключающая рассинхронизацию.
+
+GitHub: https://github.com/xLiRx/Rimify
+  </description>
+</ModMetaData>
